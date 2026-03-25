@@ -7,9 +7,9 @@ Page Object Model + BDD 기반 APP 테스트 자동화 구현 템플릿 (Python 
 - MobileOS : Android
 - Test Device : Real Device
 - Language : Python
-- Framework : Appium, Selenium, Behave, Cucumber
+- Framework : Appium, Selenium, Behave
 - IDE : PyCharm
-- Design Pattern : Page Object Model
+- etc. : Page Object Model, BDD
 
 &nbsp;
 
@@ -40,3 +40,7 @@ Page Object Model + BDD 기반 APP 테스트 자동화 구현 템플릿 (Python 
 ```
 
 &nbsp;
+
+## 실행 방법
+전체 테스트 케이스 실행: terminal에서 behave 실행 <br>
+일부 테스트 케이스 실행: terminal에서 ```behave -n '(scenario명)'``` 실행
