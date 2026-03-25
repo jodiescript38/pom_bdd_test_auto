@@ -42,5 +42,5 @@ Page Object Model + BDD 기반 APP 테스트 자동화 구현 템플릿 (Python 
 &nbsp;
 
 ## 실행 방법
-전체 테스트 케이스 실행: terminal에서 behave 실행 <br>
+전체 테스트 케이스 실행: terminal에서 ```behave``` 실행 <br>
 일부 테스트 케이스 실행: terminal에서 ```behave -n '(scenario명)'``` 실행
